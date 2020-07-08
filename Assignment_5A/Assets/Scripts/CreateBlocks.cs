@@ -86,12 +86,10 @@ public class CreateBlocks : MonoBehaviour
         return list_of_strings;
     }
 
-
+   
     // Update is called once per frame
     void Update()
     {
 
     }
-
-
 }
